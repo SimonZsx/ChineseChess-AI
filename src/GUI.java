@@ -6,12 +6,7 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Random;
 
-/*
- * COMP3270 
- * Chinese Chess AI mini project
- * Zhao Shixiong
- * UID: 3035028659
-*/
+
 public class GUI {
 	
 int[][] points=new int[11][12];
